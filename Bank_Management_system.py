@@ -28,7 +28,7 @@ while (True):
     choice=int(input("--> Enter your choice: "))
 
     if(choice<1 and choice >4):
-        print("Soorry,You ave hoosed a wrong choice, plese entered again.")
+        print("Soorry,You have choosed a wrong choice, plese entered again.")
         continue
 
     elif(choice==1):
